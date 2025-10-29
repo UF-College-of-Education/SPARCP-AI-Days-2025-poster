@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17474992.svg)](https://doi.org/10.5281/zenodo.17474992)
+
 # SPARC: An AI-Enabled Standardized Patient Avatar for Scalable Clinician Communication Training
 
 ![SPARC Poster](https://github.com/UF-College-of-Education/SPARCP-AI-Days-2025-poster/blob/main/25_AI-Days-Poster_SPARC.png)
